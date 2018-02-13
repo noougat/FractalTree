@@ -1,7 +1,6 @@
 private double fractionLength = .8; 
 private int smallestBranch = 10; 
 private double branchAngle = .2;  
-private int ang = mouseX;
 
 public void setup() 
 {   
